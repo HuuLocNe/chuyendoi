@@ -1,0 +1,16 @@
+C:\Users\nguye\Documents\ChuyenDoi\DoAn_Gr9\ChuyenDoi\ChuyenDoi\bin\Debug\net6.0-windows\ChuyenDoi.exe
+C:\Users\nguye\Documents\ChuyenDoi\DoAn_Gr9\ChuyenDoi\ChuyenDoi\bin\Debug\net6.0-windows\ChuyenDoi.deps.json
+C:\Users\nguye\Documents\ChuyenDoi\DoAn_Gr9\ChuyenDoi\ChuyenDoi\bin\Debug\net6.0-windows\ChuyenDoi.runtimeconfig.json
+C:\Users\nguye\Documents\ChuyenDoi\DoAn_Gr9\ChuyenDoi\ChuyenDoi\bin\Debug\net6.0-windows\ChuyenDoi.dll
+C:\Users\nguye\Documents\ChuyenDoi\DoAn_Gr9\ChuyenDoi\ChuyenDoi\bin\Debug\net6.0-windows\ChuyenDoi.pdb
+C:\Users\nguye\Documents\ChuyenDoi\DoAn_Gr9\ChuyenDoi\ChuyenDoi\obj\Debug\net6.0-windows\ChuyenDoi.Form1.resources
+C:\Users\nguye\Documents\ChuyenDoi\DoAn_Gr9\ChuyenDoi\ChuyenDoi\obj\Debug\net6.0-windows\ChuyenDoi.csproj.GenerateResource.cache
+C:\Users\nguye\Documents\ChuyenDoi\DoAn_Gr9\ChuyenDoi\ChuyenDoi\obj\Debug\net6.0-windows\ChuyenDoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Documents\ChuyenDoi\DoAn_Gr9\ChuyenDoi\ChuyenDoi\obj\Debug\net6.0-windows\ChuyenDoi.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\ChuyenDoi\DoAn_Gr9\ChuyenDoi\ChuyenDoi\obj\Debug\net6.0-windows\ChuyenDoi.AssemblyInfo.cs
+C:\Users\nguye\Documents\ChuyenDoi\DoAn_Gr9\ChuyenDoi\ChuyenDoi\obj\Debug\net6.0-windows\ChuyenDoi.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\ChuyenDoi\DoAn_Gr9\ChuyenDoi\ChuyenDoi\obj\Debug\net6.0-windows\ChuyenDoi.dll
+C:\Users\nguye\Documents\ChuyenDoi\DoAn_Gr9\ChuyenDoi\ChuyenDoi\obj\Debug\net6.0-windows\refint\ChuyenDoi.dll
+C:\Users\nguye\Documents\ChuyenDoi\DoAn_Gr9\ChuyenDoi\ChuyenDoi\obj\Debug\net6.0-windows\ChuyenDoi.pdb
+C:\Users\nguye\Documents\ChuyenDoi\DoAn_Gr9\ChuyenDoi\ChuyenDoi\obj\Debug\net6.0-windows\ChuyenDoi.genruntimeconfig.cache
+C:\Users\nguye\Documents\ChuyenDoi\DoAn_Gr9\ChuyenDoi\ChuyenDoi\obj\Debug\net6.0-windows\ref\ChuyenDoi.dll
